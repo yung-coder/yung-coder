@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://yung-coder.io)
+[![MasterHead]("https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif")](https://yung-coder.io)
 <h1 align="center">Hi 👋, I'm Saksham chandel</h1>
 <h3 align="center">A passionate web developer from India learning about web technologies</h3>
 <img align="right" alt="Code" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
