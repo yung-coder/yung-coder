@@ -1,11 +1,9 @@
-[![MasterHead]("https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif")](https://yung-coder.io)
+[!["https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"]("https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif")](https://yung-coder.io)
 <h1 align="center">Hi 👋, I'm Saksham chandel</h1>
 <h3 align="center">A passionate web developer from India learning about web technologies</h3>
 <img align="right" alt="Code" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yung-coder&label=Profile%20views&color=0e75b6&style=flat" alt="yung-coder" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@_yung_tweets_" target="blank"><img src="https://img.shields.io/twitter/follow/@_yung_tweets_?logo=twitter&style=for-the-badge" alt="@_yung_tweets_" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs,Tailwindcss**
 
