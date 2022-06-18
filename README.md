@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/c4d9a3a8bb98a17701aa1f66901db67d.gif?width=870&name=c4d9a3a8bb98a17701aa1f66901db67d.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saksham chandel</h1>
 <h3 align="center">A passionate web developer from India learning about web technologies</h3>
 <img align="right" alt="Code" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
